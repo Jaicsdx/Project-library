@@ -76,7 +76,7 @@ form {
   }
   
   .book-header {
-    background-color: #333;
+    background-color: #458dd5;
     color: white;
     padding: 20px;
     text-align: center;
@@ -125,4 +125,8 @@ form {
 
   .read-status {
     background-color:rgb(145, 145, 226);
+  }
+  .remove-btn, .toggle-read-btn{
+    border: #333;
+    background-color: green;
   }
